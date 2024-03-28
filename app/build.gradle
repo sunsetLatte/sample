@@ -5,7 +5,7 @@ android {
     compileSdkVersion 32
 
     defaultConfig {
-        applicationId "ru.netology.testing.notuiautomator"
+        applicationId "ru.netology.testing.uiautomator"
         minSdkVersion 21
         targetSdkVersion 32
         versionCode 1
